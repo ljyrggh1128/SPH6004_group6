@@ -1,0 +1,16 @@
+,value
+n_rows,76943.0
+n_unique_stay_id,76943.0
+empty_text_ratio,0.261921
+tfidf_vocab_size,2000.0
+tfidf_max_features,2000.0
+tfidf_min_df,5.0
+tfidf_max_df,0.9
+tfidf_ngram_min,1.0
+tfidf_ngram_max,2.0
+svd_requested_dim,100.0
+svd_actual_dim,100.0
+svd_explained_variance_ratio_sum,0.417291
+duplicate_stay_id_count,0.0
+missing_value_count,0.0
+zero_variance_feature_count,0.0
